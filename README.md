@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on myself.
-- 🌱 I’m currently learning how the hek do i get a soft dev job.
+- 🌱 I’m currently learning how the hek do i get a software dev job.
 - 🤔 I’m looking for help with: LIFE.
 - 📫 How to reach me: 
 - 😄 Pronouns: He
