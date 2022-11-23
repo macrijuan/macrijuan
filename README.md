@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on myself.
 - 🌱 I’m currently learning how the hek do i get a soft dev job.
 - 🤔 I’m looking for help with: LIFE.
-- 📫 How to reach me: 
+<h1>- 📫 How to reach me: </h1>
                       LinkedIn --> https://www.linkedin.com/in/juan-andres-macri-ibanez/
                       email --> amacri162013@yahoo.com
 - 😄 Pronouns: He
